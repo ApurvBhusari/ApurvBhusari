@@ -1,7 +1,7 @@
 ![MasterHead](https://www.sudeep.co/images/post_images/2018-02-09-Understanding-the-Data-Science-Lifecycle/chart.png)
 <h1 align="center">Hi 👋, I'm Apurv Bhusari</h1>
 <h3 align="center">My interest lies in playing with data and learning the insights and predict the future using machine learning ,deep learning techniques, computer vision and nlp.</h3>
-img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
+<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apurvbhusari" alt="apurvbhusari" /></a> </p>
 
