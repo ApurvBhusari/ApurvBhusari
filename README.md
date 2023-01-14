@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/14-_m4KWKLvY_JpAtSAoFKBqWKqRj8ZC-?usp=share_link](https://drive.google.com/drive/folders/14-_m4KWKLvY_JpAtSAoFKBqWKqRj8ZC-?usp=share_link)
 
-- ⚡ Fun fact **I love Python programming and Data analysis and model building and deploying more than PC gaming, social media scrolling,**
+- ⚡ Fun fact **I love Python programming , Data analysis , model building , deploying more than PC gaming, social media scrolling,**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
